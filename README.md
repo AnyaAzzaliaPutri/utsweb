@@ -24,6 +24,7 @@ if (isset($_POST['komentar'])) {
     </form>
 
     <h2>Hasil Komentar:</h2>
+    
     <div>
         <?php
         echo $komentar;
